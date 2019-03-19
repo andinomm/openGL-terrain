@@ -1,0 +1,3 @@
+De pe tastele ‘i’, ‘j’, ‘k’, ‘l’, ‘y’, ‘h’ naviga?i stânga , dreapta, sus, jos ?i respectiv zoom-in, zoom-out, de pe tasta ‘0’
+schimba?i op?iunea curenta, de pe tastele ‘+’ ?i ‘–‘ incrementa?i respectiv decrementa?i valoarea parametrului curent, iar de pe
+ tasta ‘z’ aplica?i Perlin Noise pe octave.
